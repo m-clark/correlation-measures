@@ -1,0 +1,26 @@
+\select@language {english}
+\contentsline {part}{Preface}{3}{section*.1}
+\contentsline {part}{Introduction}{4}{section*.2}
+\contentsline {section}{Pearson Correlation}{4}{section*.3}
+\contentsline {subsection}{Spearman's Measure}{5}{subsection*.4}
+\contentsline {section}{Hoeffding's D}{5}{section*.5}
+\contentsline {section}{Distance Correlation}{5}{section*.6}
+\contentsline {section}{Mutual Information and the Maximal Information Coefficient}{6}{section*.7}
+\contentsline {part}{Linear Relationships}{7}{section*.8}
+\contentsline {section}{Results}{7}{section*.9}
+\contentsline {part}{Other Relationships}{8}{section*.10}
+\contentsline {section}{Results}{8}{section*.11}
+\contentsline {subsection}{Less noisy}{8}{subsection*.12}
+\contentsline {subsection}{Noisier}{9}{subsection*.13}
+\contentsline {part}{Summary}{9}{section*.14}
+\contentsline {part}{Appendix}{11}{section*.15}
+\contentsline {section}{Mine Results}{11}{section*.16}
+\contentsline {section}{Statistics: Linear Relationships}{12}{section*.17}
+\contentsline {section}{MIC tends toward zero for independent data}{12}{section*.18}
+\contentsline {section}{Statistics: Nonlinear Relationships}{13}{section*.19}
+\contentsline {subsection}{Pearson and Spearman Distributions}{13}{subsection*.20}
+\contentsline {subsection}{Hoeffding's D Distributions}{13}{subsection*.21}
+\contentsline {subsection}{Less Noisy Patterns}{14}{subsection*.22}
+\contentsline {subsection}{Noisier Patterns}{15}{subsection*.23}
+\contentsline {section}{Additional Information}{16}{section*.24}
+\contentsfinish 

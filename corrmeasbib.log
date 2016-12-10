@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2013.4.17)  17 APR 2013 09:50
+entering extended mode
+**C:/Users/mclark19/Desktop/CSR/Technical*Reports/CorrelationComparison/corrmea
+sbib.bib
+
+("C:/Users/mclark19/Desktop/CSR/Technical Reports/CorrelationComparison/corrmea
+sbib.bib"
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 @article{szekely_
+                     measuring_2007,
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 @article{szekely_
+                     measuring_2007,
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
